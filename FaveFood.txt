@@ -3,3 +3,4 @@ Chris - Quiche
 Amoriss - Pizza
 Spicy Food - Daniel
 more changes
+adding lines not staged
