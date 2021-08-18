@@ -1,7 +1,11 @@
 1. our favorite foods:
 Joey - Pizza 
 Chris - Quiche 
-Amoriss - Pizza
+Amoriss - Pizza and burgers
 Spicy Food - Daniel
 whit - Sushi
+<<<<<<< HEAD
 Cruz - Pizza or Ribeye Steak
+=======
+Sean - Korean Barbeque
+>>>>>>> 091ba7a0f428e43c87a2bf442d3efaec695f47f6
